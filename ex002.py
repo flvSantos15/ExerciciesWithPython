@@ -1,0 +1,7 @@
+print(4 * '-=-', 'DESAFIO 02', 4 * '-=-')
+print()
+dia = input('Que Dia você nasceu? ')
+mes = input('Que mês você nasceu? ')
+ano = input('Qua ano você nasceu? ')
+print()
+print(dia, '/', mes, '/', ano)
